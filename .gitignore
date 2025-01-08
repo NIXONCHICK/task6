@@ -1,0 +1,19 @@
+# Общие файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Maven-папки и файлы сборки
+target/
+*.log
+*.tmp
+
+# Логи
+*.log
+*.out
+*.err
+
+# Файлы операционных систем
+Thumbs.db
